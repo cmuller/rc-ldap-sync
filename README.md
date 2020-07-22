@@ -1,3 +1,5 @@
+:warning: Note: this code is not used anymore as we have chosen to use a *Matrix/Synpase* server with *Element* UI instead of *RocketChat*. But feel free to use, adapt and propose changes if needed.
+
 # Install
 * Python >= 3.6
 * `pip install -r requirements.txt`
